@@ -32,4 +32,3 @@ resource "aws_s3_bucket_website_configuration" "subdomain_website_configuration"
     protocol  = "http"
   }
 }
-
